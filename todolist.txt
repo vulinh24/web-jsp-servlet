@@ -1,0 +1,26 @@
+- create common tablib , config pom.xml , web.xml , decorator.xml
+- import css , js
+result: run project successfully with path : trang-chu
+
+- decorate header footer with decorator library :
+result : done
+
+-authentication : done
+
+-authorization : done, but only affect home page , not all urls
+
+-design api : done
+
+-design database
+
+- design model : done
+
+
+-render data : list web page , + render category : done
+
+- handle detail of product : done
+
+- handle cart : done
+
+									17h21p 11-10 : done!
+									keep on trying !
